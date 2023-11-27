@@ -1,9 +1,6 @@
-
-**SalahEddineGhamri/SalahEddineGhamri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=salaheddineghamri&&show_icons=true&theme=github" />
 
-Here are some ideas to get you started:
+Here are some ideas to get me started but no time to fill them:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
