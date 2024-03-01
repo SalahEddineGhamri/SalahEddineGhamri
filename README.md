@@ -1,4 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=salaheddineghamri&&show_icons=true&theme=github" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salaheddineghamri&&show_icons=true&layout=compact&theme=github" />
 
 Here are some ideas to get me started but no time to fill them:
 
