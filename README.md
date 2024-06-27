@@ -13,3 +13,4 @@ Here are some ideas to get me started but no time to fill them:
 - ⚡ Fun fact: writing code for living is no fun :P
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salaheddineghamri&&show_icons=true&layout=compact&theme=github" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salaheddineghamri&theme=gruvbox)](https://git.io/streak-stats)
